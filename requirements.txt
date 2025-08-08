@@ -1,0 +1,4 @@
+jupyter
+groq
+ipykernel
+python-dotenv

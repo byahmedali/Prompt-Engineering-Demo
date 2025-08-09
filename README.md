@@ -8,8 +8,8 @@ This repository includes a simple notebook to demonstrate prompt engineering pri
 ## Setup
 1. **Clone this repository:**
 ```
-git clone https://github.com/byahmedali/Prompt-Engineering-Demo.git
-cd Prompt-Engineering-Demo
+git clone https://github.com/byahmedali/Prompt-Engineering-Guide.git
+cd Prompt-Engineering-Guide
 ```
 
 2. **Create and activate a virtual environment:**
@@ -42,7 +42,7 @@ python -m ipykernel install --user --name=venv --display-name "Prompt Engineerin
 ```
 jupyter notebook
 ```
-Now your can run the [Prompt Engineering](./Prompt%20Engineering.ipynb) notebook.
+Now your can run the [Prompt Engineering Guide](./Prompt%20Engineering%20Guide.ipynb) notebook.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
